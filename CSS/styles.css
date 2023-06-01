@@ -30,7 +30,8 @@ body{background: #F5FBE3;
 
 .h2{color: #435728; text-decoration: none;}
 
-.l {padding-top: 10px;}
+.l {padding-top: 10px;
+    font-size: 17px;}
 
 ul{margin-top: 5px;
     text-decoration: underline;
@@ -152,6 +153,7 @@ p{text-indent: 5mm;
 
 td, th { border: #55801C 2px solid;
         width: 150px; height: 25px;
-        vertical-align: middle;}
+        vertical-align: middle;
+        font-size: 17px;}
 
           
